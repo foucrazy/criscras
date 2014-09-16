@@ -1,0 +1,9 @@
+{
+	"title": "Broches",
+	"items": [
+		{"title":"1", "description":"1", "price":"6", "image":"broche1.jpg"},
+		{"title":"2", "description":"2", "price":"6", "image":"broche2.jpg"},
+		{"title":"3", "description":"3", "price":"6", "image":"broche3.jpg"},
+		{"title":"4", "description":"4", "price":"6", "image":"broche4.jpg"}
+        ]
+}

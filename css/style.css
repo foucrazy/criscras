@@ -1,0 +1,319 @@
+body {
+	width:900px;
+	margin: 0 auto;	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;	
+	background-color:#372412;
+}
+
+a{
+	color: #FFEA6F;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+#popup{
+	width:500px; 
+	min-height:400px;
+	position:absolute; 
+	top:195px; 
+	left:205px; 
+	border:1px solid gray; 
+	background-color:#272412;
+	display:none;
+	color:white
+}
+
+#popup a{
+	color:#272412;
+	text-decoration:none;
+}
+
+#controlPopup{	
+	padding:4px;
+	text-align:right;
+}
+
+#imagenPopup{
+	padding:15px;
+	text-align:center;
+	margin:0 auto;	
+}
+
+#tituloPopup{
+	text-align:left;
+	font-weight:bold;
+	font-size:18px;
+	margin:5px;
+	margin-left:15px;
+}
+
+#descripcionPopup{
+	margin:5px;
+	margin-top:15px;
+	margin-left:35px;
+}
+
+#precioPopup{
+	color:black;
+	float:left;
+	width:77px;	
+	height:54px;
+	font-size:30px;
+	font-weight:bold;
+	margin:20px;
+	margin-left:80px;
+	background:url(precio.png) no-repeat;	
+	padding-top:9px;
+	text-align:center;
+}
+
+#opcionesPopup{
+	float:right;
+	width:150px;
+	text-align:right;
+	padding-right:80px;
+	padding-top:30px;
+}
+
+#cabecera{
+	background-color:#FFE96F;
+	font-size:56px;	
+	color:black;
+}
+
+#cuerpo{
+	width:100%;
+	margin:0 auto;
+	padding:10px;
+	min-height:500px;
+}
+
+#cuerpo #contenido{
+	width:70%;
+	float:left;
+	background-color:#665847;
+	border-top:2px solid #CC9900;
+	min-height:600px;
+	padding:10px;
+	margin:0 auto;
+}
+
+#cuerpo #contenido h1{
+	font-family: 'Cabin Sketch', arial, serif;
+}
+
+#cuerpo #contenido #productos .imageDiv{
+	position:relative;
+	display:inline;
+}
+
+#cuerpo #contenido #productos .imageDiv .product{
+	width:180px;
+	height:140px;
+	background:url(marco.gif) no-repeat left top;
+	padding:9px;
+	margin:4px;
+}
+
+#cuerpo #contenido #productos .imageDiv .moreButton{
+	position:absolute;
+	top:-20px;
+	left:9px;
+	width:25px;
+	height:23px;
+	background:none;
+	padding:0px;
+	margin:0px;
+	cursor:pointer;
+}
+
+#cuerpo #contenido #productosEnCarrito .listaProductos{
+	width:80%;
+	height:60px;
+	border: 1px dotted gray;
+	padding:5px;	
+	float:none;
+	margin-bottom:2px;
+}
+
+#cuerpo #contenido #productosEnCarrito .listaProductos img{
+	width:77px;
+	height:60px;	
+	float:left;
+}
+
+#cuerpo #contenido #productosEnCarrito .listaProductos p{
+	margin-left:15px;
+	float:left;
+}
+
+#cuerpo #contenido #productosEnCarrito .listaProductos a{
+	display:inline-block;	
+	margin-left:14px;
+	margin-top:8px;
+	padding:5px;
+	background-color:gray;
+	font-size:12px;
+}
+
+#cuerpo #contenido #opcionesCarrito{
+	margin-top:20px;
+	margin-left:30px;
+}
+
+#cuerpo #contenido #opcionesCarrito a{
+	display:inline-block;	
+	margin:3px;
+	padding:5px;
+	background-color:gray;
+	font-size:14px;
+}
+
+#cuerpo #contenido #slider-wrapper {
+    background:url(../images/slider_big.png) no-repeat; /* Slider border and shadows */
+    width:430px;
+    height:400px;
+    margin:0 auto;
+	margin-top:20px;
+    padding-top:17px; /* Push the actual slider into the centre */
+    position:relative;
+}
+
+#cuerpo #contenido #slider {
+    margin:0 auto;
+    width:400px;
+    height:325px;
+    background: url(../images/loading.gif) no-repeat 50% 50%;
+}
+
+#cuerpo #contenido #slider img {
+    display:none;
+	left:20px;
+    width:400px;
+    height:235px;
+}
+
+#cuerpo #contenido #slider a {
+    border:0;
+    display:block;
+}
+
+#cuerpo #contenido .nivo-controlNav {
+    width:251px;
+    height:40px;
+    position:absolute;
+    left:20px; /* Manually position in centre. Not perfect */
+    bottom:-42px;
+    padding:8px 0 0 82px;
+    z-index:20; /* Make sure it is visible above the slides */
+}
+
+#cuerpo #contenido .nivo-controlNav a {
+    display:block;
+    width:22px;
+    height:22px;
+    background:url(../images/bullets.png) no-repeat;
+    text-indent:-9999px;
+    border:0;
+    margin-right:3px;
+    float:left;
+}
+
+#cuerpo #contenido .nivo-controlNav a.active {
+    background-position:0 -22px; /* Selected bullet */
+}
+
+#cuerpo #contenido .nivo-caption {
+    bottom:10%; /* Vertically centre the captions */
+    width:auto;
+    max-width:200px;
+    overflow:hidden;
+    background:#fff;
+    text-shadow:none;
+    color:#4c4b4b;
+}
+
+#cuerpo #contenido .nivo-caption p {
+    padding:5px 15px;
+}
+
+#cuerpo #contenido .nivo-caption a {
+    color:#333;
+    font-weight:bold;
+    font-size:27px;
+    text-transform:uppercase;
+}
+
+#cuerpo #contenido #featured {
+    background:url(../images/featured.png) no-repeat;
+    width:115px;
+    height:110px;
+    position:absolute;
+    top:-8px; /* Bump up a bit to give the fold effect */
+    left:-8px; /* Bump left a bit to give the fold effect */
+    z-index:20; /* Make sure it is visible above the slides */
+}
+
+#cuerpo #menu{
+	float:left;
+	border:2px solid #CC9900;
+	min-height:100px;
+	width:27%;
+	min-height:450px;
+}
+
+#cuerpo #menu h3{
+	background:url("../images/img05.gif") no-repeat scroll left bottom transparent;
+	border-bottom:2px solid #4A3903;
+	margin-left:10px;
+	padding:0px 0px 0px 30px;
+	text-align:left;
+	font-size:20px;
+	font-weight:bold;
+	font-family:'Calligraffitti';
+}
+
+#cuerpo #menu li{
+	text-decoration:none;
+	background:url("../images/img06.gif") no-repeat scroll 0px 50% transparent;
+	border-bottom:1px dotted #4A3903;
+	padding-left:15px;
+	margin-bottom:3px;
+	list-style:none;	
+	font-family:'Indie Flower';
+	font-size:16px;
+}
+
+#cuerpo #menu #carritoLateral {
+    font-family: 'Indie Flower';
+    font-size: 16px;
+	padding-left:1em;
+	margin-bottom: 2em;
+}
+
+#cuerpo #menu #carritoLateral #productosCarritoLateral .iconoCarritoLateral img{
+	width:30%;
+	height:30%;
+	float:left;
+	margin:1px;
+}
+
+#cuerpo #menu #carritoLateral #infoCarritoLateral{
+	clear:both;
+	padding-top:5px;
+}
+
+#pie{
+	clear:both;
+	border-top:3px solid #E8AD35;
+	color:#E8AD35;
+}
+
+#pie #copyright{
+	padding:5px;
+}

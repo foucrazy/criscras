@@ -1,0 +1,15 @@
+{
+	"title": "Novedades",
+	"items": [
+		{"title":"1", "description":"1", "price":"6", "image":"anillo13.jpg"},
+		{"title":"2", "description":"2", "price":"6", "image":"anillo14.jpg"},
+		{"title":"3", "description":"3", "price":"6", "image":"pendientes44.jpg"},
+		{"title":"4", "description":"4", "price":"6", "image":"pendientes32.jpg"},
+		{"title":"5", "description":"5", "price":"6", "image":"colgante32.jpg"},
+		{"title":"6", "description":"6", "price":"6", "image":"colgante50.jpg"},
+		{"title":"7", "description":"7", "price":"6", "image":"pulsera1.jpg"},
+		{"title":"8", "description":"8", "price":"6", "image":"pulsera2.jpg"},
+		{"title":"9", "description":"9", "price":"6", "image":"pendientes55.jpg"},
+		{"title":"10", "description":"10", "price":"6", "image":"pendientes50.jpg"}
+        ]
+}

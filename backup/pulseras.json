@@ -1,0 +1,8 @@
+{
+	"title": "Pulseras",
+	"items": [
+		{"title":"Pulsera1", "description":"Pulsera1", "price":"6", "image":"pulsera1.jpg"},
+		{"title":"Pulsera2", "description":"Pulsera2", "price":"6", "image":"pulsera2.jpg"},
+		{"title":"Pulsera3", "description":"Pulsera3", "price":"6", "image":"pulsera3.jpg"}
+        ]
+}

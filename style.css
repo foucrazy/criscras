@@ -1,0 +1,44 @@
+body {
+	width:900px;
+	margin: 0 auto;	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;	
+	background-color:#372412;
+}
+
+a{
+	color: #FFEA6F;
+}
+
+#cabecera{
+	background-color:#FFE96F;
+	font-size:56px;	
+	color:black;
+}
+
+#cuerpo{
+	width:800px;
+}
+
+#contenido{
+	width:500px;
+	float:left;
+	background-color:#665847;
+}
+
+#menu{
+	width:25%
+	float:left;
+	border:2px solid #CC9900;
+}
+
+#pie{
+	clear:both;
+	border-top:3px solid #E8AD35;
+	color:#E8AD35;
+}
+
+#copyright{
+	padding:5px;
+}

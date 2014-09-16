@@ -1,0 +1,23 @@
+{
+	"title":"Pruebas",
+	"items":[
+		{
+			"title":"Prueba1",
+			"description":"Descripcion1",
+			"price":"155",
+			"image":"anillo1.jpg"
+		},
+		{
+			"title":"Pendientes39",
+			"description":"Pendientes39",
+			"price":"4",
+			"image":"pendientes39.jpg"
+		},
+		{
+			"title":"Colgante42",
+			"description":"",
+			"price":"11",
+			"image":"colgante42.jpg"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"title": "Anillos",
+	"items": [
+		{"title":"Primavera", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.", "price":"7", "image":"anillo1.jpg"},
+		{"title":"Orange", "description":"Orange", "price":"7", "image":"anillo2.jpg"},
+		{"title":"Confeti", "description":"Confeti", "price":"7", "image":"anillo5.jpg"},
+		{"title":"Confeti2", "description":"Confeti2", "price":"7", "image":"anillo6.jpg"},
+		{"title":"Sky", "description":"Sky", "price":"7", "image":"anillo7.jpg"},
+		{"title":"Violeta", "description":"Violeta", "price":"7", "image":"anillo3.jpg"},
+		{"title":"black & whit", "description":"black & whit", "price":"7", "image":"anillo4.jpg"},
+		{"title":"Luna", "description":"Luna", "price":"7", "image":"anillo8.jpg"},
+		{"title":"Flor", "description":"Flor", "price":"7", "image":"anillo9.jpg"},
+		{"title":"Invierno", "description":"Invierno", "price":"7", "image":"anillo10.jpg"},
+		{"title":"Anillo11", "description":"Anillo11", "price":"7", "image":"anillo11.jpg"},
+		{"title":"Anillo12", "description":"Anillo12", "price":"7", "image":"anillo12.jpg"},
+		{"title":"Anillo13", "description":"Anillo13", "price":"7", "image":"anillo13.jpg"},
+		{"title":"Anillo14", "description":"Anillo14", "price":"7", "image":"anillo14.jpg"},
+		{"title":"Anillo15", "description":"Anillo15", "price":"7", "image":"anillo15.jpg"},
+		{"title":"Anillo16", "description":"Anillo16", "price":"7", "image":"anillo16.jpg"},
+		{"title":"Anillo17", "description":"Anillo17", "price":"7", "image":"anillo17.jpg"},
+		{"title":"Anillo18", "description":"Anillo18", "price":"7", "image":"anillo18.jpg"},
+		{"title":"Anillo19", "description":"Anillo19", "price":"7", "image":"anillo19.jpg"}
+        ]
+}

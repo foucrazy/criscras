@@ -1,0 +1,24 @@
+{	
+	"title": "Anillos",	
+	"items": [	
+		{"title":"Primavera", "description":"Anillo", "price":"7", "image":"anillo1.jpg"},
+		{"title":"Orange", "description":"Orange", "price":"7", "image":"anillo2.jpg"},
+		{"title":"Confeti", "description":"Confeti", "price":"7", "image":"anillo5.jpg"},
+		{"title":"Confeti2", "description":"Confeti2", "price":"7", "image":"anillo6.jpg"},
+		{"title":"Sky", "description":"Sky", "price":"7", "image":"anillo7.jpg"},
+		{"title":"Violeta", "description":"Violeta", "price":"7", "image":"anillo3.jpg"},
+		{"title":"black & white", "description":"black & white", "price":"7", "image":"anillo4.jpg"},
+		{"title":"Luna", "description":"Luna", "price":"7", "image":"anillo8.jpg"},
+		{"title":"Flor", "description":"Flor", "price":"7", "image":"anillo9.jpg"},
+		{"title":"Invierno", "description":"Invierno", "price":"7", "image":"anillo10.jpg"},
+		{"title":"Sombrero", "description":"Sombrero", "price":"7", "image":"anillo11.jpg"},
+		{"title":"Flor cuero", "description":"Flor cuero", "price":"7", "image":"anillo12.jpg"},
+		{"title":"Gala swarovski", "description":"Gala swarovski", "price":"12", "image":"anillo13.jpg"},
+		{"title":"Flor cuero 2", "description":"Flor cuero 2", "price":"7", "image":"anillo14.jpg"},
+		{"title":"laberinto", "description":"laberinto", "price":"7", "image":"anillo15.jpg"},
+		{"title":"Triangle", "description":"Triangle", "price":"7", "image":"anillo16.jpg"},
+		{"title":"Rayos", "description":"Rayos", "price":"7", "image":"anillo17.jpg"},
+		{"title":"Estrella", "description":"Esrella", "price":"7", "image":"anillo18.jpg"},
+		{"title":"Rosa", "description":"Rosa", "price":"7", "image":"anillo19.jpg"}
+]
+}
